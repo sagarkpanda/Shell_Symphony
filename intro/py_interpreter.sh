@@ -2,5 +2,5 @@
 #print("hello")
 import os
 print('hello from python')
-dir = os.getcwd()
-print("pwd is" + dir)
+#dir = os.getcwd()
+print("pwd is: " + os.getcwd())
