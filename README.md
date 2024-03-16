@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href = "https://sagarcodectrl.medium.com/list/bash-scripting-7f6f807edcf2" target ="_blank">
-<img alt="Bash" width="270px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1920px-Gnu-bash-logo.svg.png" style="padding-right:10px;" />
+<img alt="Bash" width="300px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1920px-Gnu-bash-logo.svg.png" style="padding-right:10px;" />
 </p>
 
 <h3> <strong> Read the all the articles on: </strong> </h3> <a href = "https://sagarcodectrl.medium.com/list/bash-scripting-7f6f807edcf2" target ="_blank"> 
