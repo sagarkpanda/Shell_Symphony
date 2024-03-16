@@ -1,6 +1,7 @@
 <h1> Shell Scripting using Bash </h1>
 
 <p align="center">
+<img alt="Linux" width="120px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
  <a href = "https://sagarcodectrl.medium.com/list/bash-scripting-7f6f807edcf2" target ="_blank">
 <img alt="Bash" width="300px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1920px-Gnu-bash-logo.svg.png" style="padding-right:10px;" />
 </p>
