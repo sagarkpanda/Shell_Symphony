@@ -20,10 +20,10 @@ In simple terms shell is a program that takes input as commands and passes the o
 
 In linux we have many shell programs such as bash, zsh, fish and etc. We are going to use bash in this series.
 
-What's Bash:
+## What's Bash:
 The “Bourne again shell” is a replacement and brings a lot of improvement over the original bourne shell. In modern days most of the linux distributions use bash by default.
 
-Why use Shell scripting:
+## Why use Shell scripting:
 The shell scripting contains the commands we can use without a script also.
 
 But say we want to run a set command everyday, so instead of running them repeatedly, we can create a script and run it reducing our task.
