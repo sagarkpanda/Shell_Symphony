@@ -1,15 +1,28 @@
+$ which nano
+/usr/bin/nano
+
+$ command -v nano
 #!/bin/bash
 
-file="/home/sagar/random.txt"
-data="Hello there, this is testing."
+cmd=/usr/bin/nano
 
-if [ -f "$file" ];
+if [ -f $cmd ]
 then
-    echo "File exists. Printing its content: "
-    cat "$file"
+   echo "$cmd is present"
 else
-    echo "File does not exist. Creating the file..."
-    echo "$data" > "$file"
-    cat "$file"
-    echo "File created at $file"
+   echo "$cmd is not present"
+
+fi
+
+#--------------------------#
+
+#!/bin/bash
+
+cmd=nano
+
+if command -v $cmd
+then
+   echo "$cmd is present"
+else
+   echo "$cmd is not present"
 fi
